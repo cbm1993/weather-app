@@ -1,6 +1,6 @@
 # Weather App
 
-This project is a Weather Progressive Web App using ReactJS and CSS. I wanted to explore how these technologies could work together to build something functional and user-friendly. By diving into the development process, I aimed to gain hands-on experience and showcase my skills in modern web development techniques. The end result was a project that not only served as a learning experience but also demonstrated my ability to leverage the latest tools and frameworks effectively.
+This project is a Weather Progressive Web App developed with HTML, ReactJS and CSS. I wanted to explore how these technologies could work together to build something functional and user-friendly. By diving into the development process, I aimed to gain hands-on experience and showcase my skills in modern web development techniques. The end result was a project that not only served as a learning experience but also demonstrated my ability to leverage the latest tools and frameworks effectively.
 
 # How to setup
 
